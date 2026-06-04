@@ -27,7 +27,7 @@ The goal is to investigate whether **nonlinear feature models can outperform gra
 - Predict unknown samples and assign pseudo-labels  
 - Expand training data  
 
-### Time-Aware Split
+### Chronological Split
 - Train: first 70% (earliest time steps)  
 - Validation: next 15%  
 - Test: last 15%  
