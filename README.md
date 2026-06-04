@@ -61,8 +61,8 @@ Save Results
 - Logistic Regression Output  
 
 Formulation:  
-z(x) = sqrt(2/D) * cos(Wx + b)
-output = sigmoid(wᵀz(x))  
+- z(x) = sqrt(2/D) * cos(Wx + b)
+- output = sigmoid(wᵀz(x))  
 
 ---
 
